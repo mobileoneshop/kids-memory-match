@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "zoo",
+      "name": "Zoo Animals",
+      "icon": "cards/zoo/lion.webp",
+      "primaryColor": "#4CAF50",
+      "darkColor": "#2E7D32",
+      "items": [
+        {"id": "lion", "name": "Lion", "image": "cards/zoo/lion.webp", "sound": "sounds/zoo/lion.mp3", "speak": "Lion!"},
+        {"id": "elephant", "name": "Elephant", "image": "cards/zoo/elephant.webp", "sound": "sounds/zoo/elephant.mp3", "speak": "Elephant!"},
+        {"id": "monkey", "name": "Monkey", "image": "cards/zoo/monkey.webp", "sound": "sounds/zoo/monkey.mp3", "speak": "Monkey!"},
+        {"id": "zebra", "name": "Zebra", "image": "cards/zoo/zebra.webp", "sound": "sounds/zoo/zebra.mp3", "speak": "Zebra!"},
+        {"id": "giraffe", "name": "Giraffe", "image": "cards/zoo/giraffe.webp", "sound": "sounds/zoo/giraffe.mp3", "speak": "Giraffe!"},
+        {"id": "panda", "name": "Panda", "image": "cards/zoo/panda.webp", "sound": "sounds/zoo/panda.mp3", "speak": "Panda!"},
+        {"id": "tiger", "name": "Tiger", "image": "cards/zoo/tiger.webp", "sound": "sounds/zoo/tiger.mp3", "speak": "Tiger!"},
+        {"id": "hippo", "name": "Hippo", "image": "cards/zoo/hippo.webp", "sound": "sounds/zoo/hippo.mp3", "speak": "Hippo!"},
+        {"id": "kangaroo", "name": "Kangaroo", "image": "cards/zoo/kangaroo.webp", "sound": "sounds/zoo/kangaroo.mp3", "speak": "Kangaroo!"},
+        {"id": "bear", "name": "Bear", "image": "cards/zoo/bear.webp", "sound": "sounds/zoo/bear.mp3", "speak": "Bear!"},
+        {"id": "crocodile", "name": "Crocodile", "image": "cards/zoo/crocodile.webp", "sound": "sounds/zoo/crocodile.mp3", "speak": "Crocodile!"},
+        {"id": "penguin", "name": "Penguin", "image": "cards/zoo/penguin.webp", "sound": "sounds/zoo/penguin.mp3", "speak": "Penguin!"}
+      ]
+    },
+    {
+      "id": "farm",
+      "name": "Farm Animals",
+      "icon": "cards/farm/cow.webp",
+      "primaryColor": "#FFA000",
+      "darkColor": "#E65100",
+      "items": [
+        {"id": "cow", "name": "Cow", "image": "cards/farm/cow.webp", "sound": "sounds/farm/cow.mp3", "speak": "Cow!"},
+        {"id": "horse", "name": "Horse", "image": "cards/farm/horse.webp", "sound": "sounds/farm/horse.mp3", "speak": "Horse!"},
+        {"id": "sheep", "name": "Sheep", "image": "cards/farm/sheep.webp", "sound": "sounds/farm/sheep.mp3", "speak": "Sheep!"},
+        {"id": "pig", "name": "Pig", "image": "cards/farm/pig.webp", "sound": "sounds/farm/pig.mp3", "speak": "Pig!"},
+        {"id": "chicken", "name": "Chicken", "image": "cards/farm/chicken.webp", "sound": "sounds/farm/chicken.mp3", "speak": "Chicken!"},
+        {"id": "goat", "name": "Goat", "image": "cards/farm/goat.webp", "sound": "sounds/farm/goat.mp3", "speak": "Goat!"},
+        {"id": "duck", "name": "Duck", "image": "cards/farm/duck.webp", "sound": "sounds/farm/duck.mp3", "speak": "Duck!"},
+        {"id": "donkey", "name": "Donkey", "image": "cards/farm/donkey.webp", "sound": "sounds/farm/donkey.mp3", "speak": "Donkey!"},
+        {"id": "rabbit", "name": "Rabbit", "image": "cards/farm/rabbit.webp", "sound": "sounds/farm/rabbit.mp3", "speak": "Rabbit!"},
+        {"id": "dog", "name": "Dog", "image": "cards/farm/dog.webp", "sound": "sounds/farm/dog.mp3", "speak": "Dog!"},
+        {"id": "cat", "name": "Cat", "image": "cards/farm/cat.webp", "sound": "sounds/farm/cat.mp3", "speak": "Cat!"},
+        {"id": "rooster", "name": "Rooster", "image": "cards/farm/rooster.webp", "sound": "sounds/farm/rooster.mp3", "speak": "Rooster!"}
+      ]
+    },
+    {
+      "id": "sea",
+      "name": "Sea Animals",
+      "icon": "cards/sea/dolphin.webp",
+      "primaryColor": "#2196F3",
+      "darkColor": "#0D47A1",
+      "items": [
+        {"id": "shark", "name": "Shark", "image": "cards/sea/shark.webp", "sound": "sounds/sea/shark.mp3", "speak": "Shark!"},
+        {"id": "dolphin", "name": "Dolphin", "image": "cards/sea/dolphin.webp", "sound": "sounds/sea/dolphin.mp3", "speak": "Dolphin!"},
+        {"id": "octopus", "name": "Octopus", "image": "cards/sea/octopus.webp", "sound": "sounds/sea/octopus.mp3", "speak": "Octopus!"},
+        {"id": "turtle", "name": "Turtle", "image": "cards/sea/turtle.webp", "sound": "sounds/sea/turtle.mp3", "speak": "Turtle!"},
+        {"id": "crab", "name": "Crab", "image": "cards/sea/crab.webp", "sound": "sounds/sea/crab.mp3", "speak": "Crab!"},
+        {"id": "whale", "name": "Whale", "image": "cards/sea/whale.webp", "sound": "sounds/sea/whale.mp3", "speak": "Whale!"},
+        {"id": "seahorse", "name": "Seahorse", "image": "cards/sea/seahorse.webp", "sound": "sounds/sea/seahorse.mp3", "speak": "Seahorse!"},
+        {"id": "starfish", "name": "Starfish", "image": "cards/sea/starfish.webp", "sound": "sounds/sea/starfish.mp3", "speak": "Starfish!"},
+        {"id": "jellyfish", "name": "Jellyfish", "image": "cards/sea/jellyfish.webp", "sound": "sounds/sea/jellyfish.mp3", "speak": "Jellyfish!"},
+        {"id": "clownfish", "name": "Clownfish", "image": "cards/sea/clownfish.webp", "sound": "sounds/sea/clownfish.mp3", "speak": "Clownfish!"},
+        {"id": "seal", "name": "Seal", "image": "cards/sea/seal.webp", "sound": "sounds/sea/seal.mp3", "speak": "Seal!"},
+        {"id": "lobster", "name": "Lobster", "image": "cards/sea/lobster.webp", "sound": "sounds/sea/lobster.mp3", "speak": "Lobster!"}
+      ]
+    },
+    {
+      "id": "birds",
+      "name": "Birds",
+      "icon": "cards/birds/parrot.webp",
+      "primaryColor": "#9C27B0",
+      "darkColor": "#6A1B9A",
+      "items": [
+        {"id": "parrot", "name": "Parrot", "image": "cards/birds/parrot.webp", "sound": "sounds/birds/parrot.mp3", "speak": "Parrot!"},
+        {"id": "sparrow", "name": "Sparrow", "image": "cards/birds/sparrow.webp", "sound": "sounds/birds/sparrow.mp3", "speak": "Sparrow!"},
+        {"id": "owl", "name": "Owl", "image": "cards/birds/owl.webp", "sound": "sounds/birds/owl.mp3", "speak": "Owl!"},
+        {"id": "peacock", "name": "Peacock", "image": "cards/birds/peacock.webp", "sound": "sounds/birds/peacock.mp3", "speak": "Peacock!"},
+        {"id": "eagle", "name": "Eagle", "image": "cards/birds/eagle.webp", "sound": "sounds/birds/eagle.mp3", "speak": "Eagle!"},
+        {"id": "pigeon", "name": "Pigeon", "image": "cards/birds/pigeon.webp", "sound": "sounds/birds/pigeon.mp3", "speak": "Pigeon!"},
+        {"id": "duck_bird", "name": "Duck", "image": "cards/birds/duck_bird.webp", "sound": "sounds/birds/duck_bird.mp3", "speak": "Duck!"},
+        {"id": "flamingo", "name": "Flamingo", "image": "cards/birds/flamingo.webp", "sound": "sounds/birds/flamingo.mp3", "speak": "Flamingo!"},
+        {"id": "toucan", "name": "Toucan", "image": "cards/birds/toucan.webp", "sound": "sounds/birds/toucan.mp3", "speak": "Toucan!"},
+        {"id": "woodpecker", "name": "Woodpecker", "image": "cards/birds/woodpecker.webp", "sound": "sounds/birds/woodpecker.mp3", "speak": "Woodpecker!"},
+        {"id": "hummingbird", "name": "Hummingbird", "image": "cards/birds/hummingbird.webp", "sound": "sounds/birds/hummingbird.mp3", "speak": "Hummingbird!"},
+        {"id": "crow", "name": "Crow", "image": "cards/birds/crow.webp", "sound": "sounds/birds/crow.mp3", "speak": "Crow!"}
+      ]
+    },
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "icon": "cards/fruits/apple.webp",
+      "primaryColor": "#E91E63",
+      "darkColor": "#C2185B",
+      "items": [
+        {"id": "apple", "name": "Apple", "image": "cards/fruits/apple.webp", "sound": "sounds/fruits/apple.mp3", "speak": "Apple!"},
+        {"id": "banana", "name": "Banana", "image": "cards/fruits/banana.webp", "sound": "sounds/fruits/banana.mp3", "speak": "Banana!"},
+        {"id": "mango", "name": "Mango", "image": "cards/fruits/mango.webp", "sound": "sounds/fruits/mango.mp3", "speak": "Mango!"},
+        {"id": "orange", "name": "Orange", "image": "cards/fruits/orange.webp", "sound": "sounds/fruits/orange.mp3", "speak": "Orange!"},
+        {"id": "grapes", "name": "Grapes", "image": "cards/fruits/grapes.webp", "sound": "sounds/fruits/grapes.mp3", "speak": "Grapes!"},
+        {"id": "strawberry", "name": "Strawberry", "image": "cards/fruits/strawberry.webp", "sound": "sounds/fruits/strawberry.mp3", "speak": "Strawberry!"},
+        {"id": "watermelon", "name": "Watermelon", "image": "cards/fruits/watermelon.webp", "sound": "sounds/fruits/watermelon.mp3", "speak": "Watermelon!"},
+        {"id": "pineapple", "name": "Pineapple", "image": "cards/fruits/pineapple.webp", "sound": "sounds/fruits/pineapple.mp3", "speak": "Pineapple!"},
+        {"id": "cherry", "name": "Cherry", "image": "cards/fruits/cherry.webp", "sound": "sounds/fruits/cherry.mp3", "speak": "Cherry!"},
+        {"id": "kiwi", "name": "Kiwi", "image": "cards/fruits/kiwi.webp", "sound": "sounds/fruits/kiwi.mp3", "speak": "Kiwi!"},
+        {"id": "peach", "name": "Peach", "image": "cards/fruits/peach.webp", "sound": "sounds/fruits/peach.mp3", "speak": "Peach!"},
+        {"id": "lemon", "name": "Lemon", "image": "cards/fruits/lemon.webp", "sound": "sounds/fruits/lemon.mp3", "speak": "Lemon!"}
+      ]
+    },
+    {
+      "id": "vegetables",
+      "name": "Vegetables",
+      "icon": "cards/vegetables/carrot.webp",
+      "primaryColor": "#8BC34A",
+      "darkColor": "#558B2F",
+      "items": [
+        {"id": "carrot", "name": "Carrot", "image": "cards/vegetables/carrot.webp", "sound": "sounds/vegetables/carrot.mp3", "speak": "Carrot!"},
+        {"id": "tomato", "name": "Tomato", "image": "cards/vegetables/tomato.webp", "sound": "sounds/vegetables/tomato.mp3", "speak": "Tomato!"},
+        {"id": "potato", "name": "Potato", "image": "cards/vegetables/potato.webp", "sound": "sounds/vegetables/potato.mp3", "speak": "Potato!"},
+        {"id": "onion", "name": "Onion", "image": "cards/vegetables/onion.webp", "sound": "sounds/vegetables/onion.mp3", "speak": "Onion!"},
+        {"id": "peas", "name": "Peas", "image": "cards/vegetables/peas.webp", "sound": "sounds/vegetables/peas.mp3", "speak": "Peas!"},
+        {"id": "corn", "name": "Corn", "image": "cards/vegetables/corn.webp", "sound": "sounds/vegetables/corn.mp3", "speak": "Corn!"},
+        {"id": "cabbage", "name": "Cabbage", "image": "cards/vegetables/cabbage.webp", "sound": "sounds/vegetables/cabbage.mp3", "speak": "Cabbage!"},
+        {"id": "spinach", "name": "Spinach", "image": "cards/vegetables/spinach.webp", "sound": "sounds/vegetables/spinach.mp3", "speak": "Spinach!"},
+        {"id": "pumpkin", "name": "Pumpkin", "image": "cards/vegetables/pumpkin.webp", "sound": "sounds/vegetables/pumpkin.mp3", "speak": "Pumpkin!"},
+        {"id": "cucumber", "name": "Cucumber", "image": "cards/vegetables/cucumber.webp", "sound": "sounds/vegetables/cucumber.mp3", "speak": "Cucumber!"},
+        {"id": "radish", "name": "Radish", "image": "cards/vegetables/radish.webp", "sound": "sounds/vegetables/radish.mp3", "speak": "Radish!"},
+        {"id": "broccoli", "name": "Broccoli", "image": "cards/vegetables/broccoli.webp", "sound": "sounds/vegetables/broccoli.mp3", "speak": "Broccoli!"}
+      ]
+    },
+    {
+      "id": "vehicles",
+      "name": "Vehicles",
+      "icon": "cards/vehicles/car.webp",
+      "primaryColor": "#FF9800",
+      "darkColor": "#E65100",
+      "items": [
+        {"id": "car", "name": "Car", "image": "cards/vehicles/car.webp", "sound": "sounds/vehicles/car.mp3", "speak": "Car!"},
+        {"id": "bus", "name": "Bus", "image": "cards/vehicles/bus.webp", "sound": "sounds/vehicles/bus.mp3", "speak": "Bus!"},
+        {"id": "truck", "name": "Truck", "image": "cards/vehicles/truck.webp", "sound": "sounds/vehicles/truck.mp3", "speak": "Truck!"},
+        {"id": "airplane", "name": "Airplane", "image": "cards/vehicles/airplane.webp", "sound": "sounds/vehicles/airplane.mp3", "speak": "Airplane!"},
+        {"id": "train", "name": "Train", "image": "cards/vehicles/train.webp", "sound": "sounds/vehicles/train.mp3", "speak": "Train!"},
+        {"id": "ship", "name": "Ship", "image": "cards/vehicles/ship.webp", "sound": "sounds/vehicles/ship.mp3", "speak": "Ship!"},
+        {"id": "bicycle", "name": "Bicycle", "image": "cards/vehicles/bicycle.webp", "sound": "sounds/vehicles/bicycle.mp3", "speak": "Bicycle!"},
+        {"id": "motorcycle", "name": "Motorcycle", "image": "cards/vehicles/motorcycle.webp", "sound": "sounds/vehicles/motorcycle.mp3", "speak": "Motorcycle!"},
+        {"id": "ambulance", "name": "Ambulance", "image": "cards/vehicles/ambulance.webp", "sound": "sounds/vehicles/ambulance.mp3", "speak": "Ambulance!"},
+        {"id": "fire_truck", "name": "Fire Truck", "image": "cards/vehicles/fire_truck.webp", "sound": "sounds/vehicles/fire_truck.mp3", "speak": "Fire Truck!"},
+        {"id": "tractor", "name": "Tractor", "image": "cards/vehicles/tractor.webp", "sound": "sounds/vehicles/tractor.mp3", "speak": "Tractor!"},
+        {"id": "helicopter", "name": "Helicopter", "image": "cards/vehicles/helicopter.webp", "sound": "sounds/vehicles/helicopter.mp3", "speak": "Helicopter!"}
+      ]
+    },
+    {
+      "id": "shapes_colors",
+      "name": "Shapes & Colors",
+      "icon": "cards/shapes_colors/green_star.webp",
+      "primaryColor": "#009688",
+      "darkColor": "#00695C",
+      "items": [
+        {"id": "red_circle", "name": "Red Circle", "image": "cards/shapes_colors/red_circle.webp", "sound": "sounds/shapes_colors/red_circle.mp3", "speak": "Red Circle!"},
+        {"id": "blue_square", "name": "Blue Square", "image": "cards/shapes_colors/blue_square.webp", "sound": "sounds/shapes_colors/blue_square.mp3", "speak": "Blue Square!"},
+        {"id": "yellow_triangle", "name": "Yellow Triangle", "image": "cards/shapes_colors/yellow_triangle.webp", "sound": "sounds/shapes_colors/yellow_triangle.mp3", "speak": "Yellow Triangle!"},
+        {"id": "green_star", "name": "Green Star", "image": "cards/shapes_colors/green_star.webp", "sound": "sounds/shapes_colors/green_star.mp3", "speak": "Green Star!"},
+        {"id": "purple_heart", "name": "Purple Heart", "image": "cards/shapes_colors/purple_heart.webp", "sound": "sounds/shapes_colors/purple_heart.mp3", "speak": "Purple Heart!"},
+        {"id": "orange_diamond", "name": "Orange Diamond", "image": "cards/shapes_colors/orange_diamond.webp", "sound": "sounds/shapes_colors/orange_diamond.mp3", "speak": "Orange Diamond!"},
+        {"id": "pink_oval", "name": "Pink Oval", "image": "cards/shapes_colors/pink_oval.webp", "sound": "sounds/shapes_colors/pink_oval.mp3", "speak": "Pink Oval!"},
+        {"id": "brown_rectangle", "name": "Brown Rectangle", "image": "cards/shapes_colors/brown_rectangle.webp", "sound": "sounds/shapes_colors/brown_rectangle.mp3", "speak": "Brown Rectangle!"},
+        {"id": "black_crescent", "name": "Black Crescent", "image": "cards/shapes_colors/black_crescent.webp", "sound": "sounds/shapes_colors/black_crescent.mp3", "speak": "Black Crescent!"},
+        {"id": "white_cloud", "name": "White Cloud", "image": "cards/shapes_colors/white_cloud.webp", "sound": "sounds/shapes_colors/white_cloud.mp3", "speak": "White Cloud!"},
+        {"id": "rainbow", "name": "Rainbow", "image": "cards/shapes_colors/rainbow.webp", "sound": "sounds/shapes_colors/rainbow.mp3", "speak": "Rainbow!"},
+        {"id": "gray_hexagon", "name": "Gray Hexagon", "image": "cards/shapes_colors/gray_hexagon.webp", "sound": "sounds/shapes_colors/gray_hexagon.mp3", "speak": "Gray Hexagon!"}
+      ]
+    }
+  ]
+}

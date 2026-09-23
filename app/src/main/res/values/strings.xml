@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Kids Memory Match</string>
+
+    <!-- Preview & Design System -->
+    <string name="design_system_preview_title">Design System Preview</string>
+    <string name="preview_button_primary">Play Game!</string>
+    <string name="preview_button_secondary">Choose Pack</string>
+    <string name="preview_button_success">Great Job!</string>
+    <string name="preview_pack_colors">Pack Themes</string>
+    <string name="preview_stars_title">Star Ratings</string>
+    <string name="preview_audio_title">Sound &amp; Speech Test</string>
+    <string name="preview_test_flip">Test Flip SFX</string>
+    <string name="preview_test_match">Test Match SFX</string>
+    <string name="preview_test_mismatch">Test Mismatch SFX</string>
+    <string name="preview_test_win">Test Win SFX</string>
+    <string name="preview_test_star">Test Star SFX</string>
+    <string name="preview_test_tts">Test TTS: "Lion!"</string>
+    <string name="preview_toggle_music">Toggle Background Music</string>
+
+    <!-- Pack Names (v1) -->
+    <string name="pack_zoo">Zoo Animals</string>
+    <string name="pack_farm">Farm Animals</string>
+    <string name="pack_sea">Sea Animals</string>
+    <string name="pack_birds">Birds</string>
+    <string name="pack_fruits">Fruits</string>
+    <string name="pack_vegetables">Vegetables</string>
+    <string name="pack_vehicles">Vehicles</string>
+    <string name="pack_shapes_colors">Shapes &amp; Colors</string>
+    <string name="pack_allmix">All Mix</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_tagline">Fun Memory Matching Game!</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Pick a Pack!</string>
+    <string name="home_stars_label">Stars: %1$d / %2$d</string>
+    <string name="pack_stars_format">%1$d / 9</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_mascot">Mascot Brain</string>
+    <string name="cd_pack_icon">Pack Icon</string>
+    <string name="cd_star_icon">Star</string>
+
+    <!-- Parent Gate -->
+    <string name="parent_gate_title">Grown-ups Only!</string>
+    <string name="parent_gate_prompt">Ask a parent to solve:</string>
+    <string name="parent_gate_question">What is %1$d + %2$d?</string>
+    <string name="parent_gate_try_again">Oops! Try again!</string>
+    <string name="parent_gate_close">Back to Game</string>
+
+    <!-- Level Select Screen -->
+    <string name="level_select_title">Select Level</string>
+    <string name="level_easy">Easy</string>
+    <string name="level_easy_subtitle">4×3 • 6 Pairs</string>
+    <string name="level_medium">Medium</string>
+    <string name="level_medium_subtitle">4×4 • 8 Pairs</string>
+    <string name="level_hard">Hard</string>
+    <string name="level_hard_subtitle">6×4 • 12 Pairs</string>
+    <string name="level_best_stats">Best: %1$d moves • %2$ds</string>
+    <string name="level_not_played">Not played yet</string>
+    <string name="cd_back_button">Back to Home</string>
+    <string name="btn_back">Back</string>
+
+    <!-- Game Screen -->
+    <string name="game_title">Game</string>
+    <string name="game_moves_format">%1$d Moves</string>
+    <string name="game_time_format">%1$02d:%2$02d</string>
+    <string name="cd_game_card">Memory Card %1$d</string>
+    <string name="cd_hud_home">Home</string>
+    <string name="cd_hud_restart">Restart</string>
+    <string name="cd_hud_pause">Pause</string>
+    <string name="cd_hud_resume">Resume</string>
+    <string name="game_paused">Paused</string>
+    <string name="game_resume">Resume</string>
+    <!-- Pause Overlay -->
+    <string name="pause_title">Game Paused</string>
+    <string name="pause_subtitle">Take a breather!</string>
+    <string name="pause_resume">Resume</string>
+    <string name="pause_restart">Restart</string>
+    <string name="pause_home">Exit to Menu</string>
+    <string name="cd_pause_overlay">Game Paused</string>
+    <!-- Win Dialog -->
+    <string name="win_title">You Did It!</string>
+    <string name="win_subtitle">Great Matching!</string>
+    <string name="win_new_best">⭐ New Best! ⭐</string>
+    <string name="win_stats_format">%1$d Moves  •  %2$02d:%3$02d</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="btn_choose_pack">Choose Pack</string>
+    <string name="btn_close">Close</string>
+    <string name="cd_win_close">Close celebration</string>
+    <string name="cd_win_dialog">Game Complete</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_audio_title">Audio &amp; Sounds</string>
+    <string name="settings_sound">Sound Effects</string>
+    <string name="settings_sound_desc">Play flips, matches, and celebration sounds</string>
+    <string name="settings_music">Background Music</string>
+    <string name="settings_music_desc">Play happy background melodies</string>
+    <string name="settings_language_title">Language</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_coming_soon">More languages coming soon!</string>
+    <string name="settings_reset_title">Game Progress</string>
+    <string name="settings_reset_button">Reset All Progress</string>
+    <string name="settings_reset_desc">Clear earned stars and best scores</string>
+    <string name="settings_reset_confirm_title">Reset Game Progress?</string>
+    <string name="settings_reset_confirm_message">Are you sure you want to reset all stars and best scores? Your sound preferences will not be changed.</string>
+    <string name="settings_reset_confirm_proceed">Yes, Reset</string>
+    <string name="settings_reset_confirm_cancel">Cancel</string>
+    <string name="settings_reset_success">All game progress has been reset!</string>
+    <string name="settings_about_title">About</string>
+    <string name="settings_about_version">Kids Memory Match • v1.0.0</string>
+    <string name="settings_about_tagline">Made with love for curious little learners ❤️</string>
+    <string name="settings_about_safety">100% Offline • No Ads • Kid Safe</string>
+    <string name="cd_sound_toggle">Toggle sound effects</string>
+    <string name="cd_music_toggle">Toggle background music</string>
+    <string name="settings_language_active">Active</string>
+    <string name="cd_settings_back">Back to Home</string>
+    <string name="cd_home_settings">Open Settings</string>
+</resources>
