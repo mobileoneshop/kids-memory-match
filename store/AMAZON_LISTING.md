@@ -99,7 +99,8 @@ kids memory game, memory match, toddler games, preschool learning, matching card
 
 | Asset Name | Required Dimensions | File Path in Project |
 |---|---|---|
-| **App Icon** | 512 × 512 px (PNG 32-bit) | `store/icon_512.png` |
+| **Large App Icon** | 512 × 512 px (PNG 32-bit) | `store/icon_512.png` |
+| **Small App Icon** | 114 × 114 px (PNG 32-bit) | `store/icon_114.png` |
 | **Promotional Banner / Cover** | 1024 × 500 px or 16:9 | `store/promo_banner.jpg` (or `store/header_1024x500.jpg`) |
 | **Portrait Screenshots** (6) | 800 × 1280 px (Native Fire Tablet) | `store/screenshots/portrait/` (01 to 06) |
 | **Landscape Screenshots** (6) | 1280 × 800 px (Native Fire Tablet) | `store/screenshots/landscape/` (01 to 06) |
